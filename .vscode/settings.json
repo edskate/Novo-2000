@@ -1,5 +1,17 @@
 {
               "workbench.colorCustomizations": {
-                            "titleBar.activeBackground": "#22ae74"
-              }
+                            "titleBar.activeBackground": "#7aa0b6"
+              },
+              "cSpell.language": "en,en-US,en-GB",
+              "cSpell.enableFiletypes": [
+                            "config",
+                            "jsonl"
+              ],
+              "cSpell.words": [
+                            "BUT",
+                            "mundo"
+              ],
+              "spellchecker.ignoreWordsList": [
+                            "sublicense"
+              ]
 }
