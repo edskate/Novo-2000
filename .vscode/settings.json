@@ -12,6 +12,7 @@
                             "mundo"
               ],
               "spellchecker.ignoreWordsList": [
-                            "sublicense"
+                            "sublicense",
+                            "Novo"
               ]
 }
